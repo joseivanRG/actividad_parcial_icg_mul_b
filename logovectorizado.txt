@@ -1,0 +1,14 @@
+<svg width="510" height="500">
+
+
+      <rect x="0" y="0" width="247" height="640" stroke="black" fill="black" stroke-width="5"/>
+      <circle cx="125" cy="175" r="121" fill="yellow"stroke="yellow"stroke-width="3"/>
+      <polygon points="106 192 205 80  160 44 140 41 116 41 78 52 60 63 41 79 29 90 20 103 11 118 " fill="red"stroke="red"stroke-width="1"/>
+      <polygon points="4 179 13 126 106 193 201 81 239 124 128 298" 		 fill="black"stroke="yellow"stroke-width="7"/>
+      <polygon points="6 138 9 125 122 203 275 4 138 298 118 299  " fill="white"stroke-width="3"/>
+	  <polygon points="5 133 6 131 126 225 266 15 132 277" fill="green"stroke-width="3"/>
+	  <polygon points="41 174 126 289 131 277 " fill="black"stroke-width="3"/>
+      <polygon points="133 301 0 178 2 190 7 209 14 228 20 239 28 249 32 255 40 262 48 270 59 279 72 286 88 293 99 296  " fill="blue"stroke="blue"stroke-width="1"/>
+      
+      
+      
